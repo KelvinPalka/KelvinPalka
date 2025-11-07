@@ -61,3 +61,14 @@ Atualmente, estou me dedicando ao estudo e à prática de **desenvolvimento web,
   🔗 https://grupo1-ods10b2024.github.io/ods10/index.html
 
 ---
+
+## 🚧 Projetos em Desenvolvimento
+
+### 🟦 Sistema de Gerenciamento Integrado para Confecção e Comércio de Vestuário Personalizado – WPF
+Um sistema desktop desenvolvido em **C# (.NET/WPF)** para gerenciamento de estoque e fluxo de produção de uma empresa de uniformes personalizados.  
+Inclui cadastro de produtos, controle de entrada/saída, acompanhamento de pedidos e painéis com relatórios.
+
+🔗 Repositório: _em desenvolvimento_  
+📌 Tecnologias: C#, WPF, XAML, MySQL
+
+---
