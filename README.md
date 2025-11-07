@@ -68,7 +68,7 @@ Atualmente, estou me dedicando ao estudo e à prática de **desenvolvimento web,
 Um sistema desktop desenvolvido em **C# (.NET/WPF)** para gerenciamento de estoque e fluxo de produção de uma empresa de uniformes personalizados.  
 Inclui cadastro de produtos, controle de entrada/saída, acompanhamento de pedidos e painéis com relatórios.
 
-🔗 Repositório: [_em desenvolvimento_  ](https://github.com/KelvinPalka/SIGCCVP)
+🔗 Repositório: https://github.com/KelvinPalka/SIGCCVP
 📌 Tecnologias: C#, WPF, XAML, MySQL
 
 ---
