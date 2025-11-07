@@ -1,6 +1,7 @@
 # 👋 Olá! Eu sou **Kelvin Palka**
 
-Sou estudante de Desenvolvimento de Sistemas, apaixonado por tecnologia e pela criação de soluções eficientes. Atualmente estou aprendendo e praticando desenvolvimento web, lógica de programação e bancos de dados.
+Sou estudante de **Desenvolvimento de Sistemas e Marketing**.  
+Atualmente estou aprendendo e praticando **desenvolvimento web, desenvolvimento mobile, desenvolvimento WPF**, além de aprimorar minha **lógica de programação** e meus conhecimentos em **bancos de dados**.
 
 ---
 
