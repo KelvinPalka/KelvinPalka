@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou **Kelvin Palka**
 
-Sou estudante de **Desenvolvimento de Sistemas e Marketing**.  
-Atualmente estou aprendendo e praticando **desenvolvimento web, desenvolvimento mobile, desenvolvimento WPF**, além de aprimorar minha **lógica de programação** e meus conhecimentos em **bancos de dados**.
+Tenho 16 anos e estou cursando o Ensino Médio Integrado ao Técnico em **Desenvolvimento de Sistemas** (conclusão prevista para **dez/2026**) e o Técnico em **Marketing** (conclusão prevista para **jul/2026**).
+Atualmente, estou me dedicando ao estudo e à prática de **desenvolvimento web, desenvolvimento mobile e desenvolvimento WPF**, além de aprimorar minha **lógica de programação** e meus conhecimentos em **bancos de dados**.
 
 ---
 
@@ -24,8 +24,9 @@ Atualmente estou aprendendo e praticando **desenvolvimento web, desenvolvimento 
 - Desenvolvimento Web (Front-end & Back-end)  
 - Lógica de Programação  
 - Banco de Dados  
-- UI/UX  
-- Projetos colaborativos e versionamento com Git  
+- Sistemas Embarcados
+- Machine Learning
+- Automação Python
 
 ---
 
@@ -39,15 +40,15 @@ Atualmente estou aprendendo e praticando **desenvolvimento web, desenvolvimento 
 
 ## 📫 Como me encontrar
 <div>
-  <a href="https://www.linkedin.com/in/seu-linkedin/" target="_blank">
+  <a href="[https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/kelvin-souza-1ab484368/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=seuemail@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kelvinpalka07@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com/seu_instagram/" target="_blank">
+  <a href="https://www.instagram.com//](https://www.instagram.com/kelvin_palka/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
