@@ -59,5 +59,6 @@ Atualmente, estou me dedicando ao estudo e à prática de **desenvolvimento web,
 
 - **Acessibilidade na Etec** – um site para solicitar recursos de acessbilidade a sua ETEC
   🔗 https://github.com/grupo1-ods10b2024/ods10
+  🔗 https://grupo1-ods10b2024.github.io/ods10/index.html
 
 ---
