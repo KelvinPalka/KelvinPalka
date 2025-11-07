@@ -32,8 +32,8 @@ Atualmente, estou me dedicando ao estudo e à prática de **desenvolvimento web,
 
 ## 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=8&theme=dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=KelvinPalka&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KelvinPalka&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
 ---
