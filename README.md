@@ -40,7 +40,7 @@ Atualmente, estou me dedicando ao estudo e à prática de **desenvolvimento web,
 
 ## 📫 Como me encontrar
 <div>
-  <a href="[https://www.linkedin.com/in/seu-linkedin/](https://www.linkedin.com/in/kelvin-souza-1ab484368/)" target="_blank">
+  <a href="https://www.linkedin.com/in/kelvin-souza-1ab484368/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
@@ -48,7 +48,7 @@ Atualmente, estou me dedicando ao estudo e à prática de **desenvolvimento web,
     <img src="https://img.shields.io/badge/Gmail-333?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <a href="https://www.instagram.com//](https://www.instagram.com/kelvin_palka/" target="_blank">
+  <a href="https://www.instagram.com/kelvin_palka/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
