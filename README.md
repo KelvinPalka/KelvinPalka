@@ -58,6 +58,6 @@ Atualmente, estou me dedicando ao estudo e à prática de **desenvolvimento web,
 ## 📌 Projetos em Destaque
 
 - **Acessibilidade na Etec** – um site para solicitar recursos de acessbilidade a sua ETEC
-  🔗 https://github.com/KelvinPalka/acessibilidade-etec
+  🔗 https://github.com/grupo1-ods10b2024/ods10
 
 ---
