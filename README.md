@@ -80,6 +80,6 @@ Administrador da conta oficial do projeto: https://github.com/CongPlatform
 
 ## 📫 Contato
 
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-Kelvin%20Palka-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kelvin-souza-1ab484368/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Palka-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kelvin-souza-1ab484368/)
 
-[![Email] (https://img.shields.io/badge/Email-kelvinpalka07%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:kelvinpalka07@gmail.com)
+[![Email](https://img.shields.io/badge/Email-kelvinpalka07%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:kelvinpalka07@gmail.com)
