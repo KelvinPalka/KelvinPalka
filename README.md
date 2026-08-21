@@ -67,21 +67,19 @@ Administrador da conta oficial do projeto: https://github.com/CongPlatform
 * Inteligência Artificial e Machine Learning
 
 ---
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinpalka&show_icons=true&include_all_commits=true&hide_border=true&locale=pt-br)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinpalka&layout=compact&hide_border=true&locale=pt-br)
+![Top Languages](./profile/top-langs.svg)
 
 </div>
-
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kelvin%20Palka-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kelvin-souza-1ab484368/)
+[![LinkedIn] (https://img.shields.io/badge/LinkedIn-Kelvin%20Palka-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/kelvin-souza-1ab484368/)
 
-[![Email](https://img.shields.io/badge/Email-kelvinpalka07%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:kelvinpalka07@gmail.com)
+[![Email] (https://img.shields.io/badge/Email-kelvinpalka07%40gmail.com-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:kelvinpalka07@gmail.com)
