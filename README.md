@@ -70,9 +70,13 @@ Administrador da conta oficial do projeto: https://github.com/CongPlatform
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinpalka\&show_icons=true\&include_all_commits=true\&hide_border=true)
+<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinpalka\&layout=compact\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kelvinpalka&show_icons=true&include_all_commits=true&hide_border=true&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinpalka&layout=compact&hide_border=true&locale=pt-br)
+
+</div>
 
 ---
 
